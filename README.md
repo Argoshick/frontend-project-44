@@ -17,3 +17,5 @@
 [brain-gcd](https://asciinema.org/a/XsNIQ2rJK8M0JaMV)
 
 [brain-progrression](https://asciinema.org/a/esGVxbhyMOXVZoMx)
+
+[brain-prime](https://asciinema.org/a/vXV3FOvIz91vEmEZ)
