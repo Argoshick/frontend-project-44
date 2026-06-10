@@ -10,4 +10,4 @@
 
 ## Demo
 
-[![brain-even](https://asciinema.org/a/https://asciinema.org/connect/8d8c4a1f-6af2-4aef-b1ab-d655d011a4e4.svg)]
+[![asciicast](https://asciinema.org/a/https://asciinema.org/connect/8d8c4a1f-6af2-4aef-b1ab-d655d011a4e4.svg)]((https://asciinema.org/a/Hdai4uBhrwZe4m4e))
