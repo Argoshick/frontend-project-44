@@ -8,12 +8,3 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Argoshick_frontend-project-44&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Argoshick_frontend-project-44)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Argoshick_frontend-project-44&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Argoshick_frontend-project-44)
 
-## Description
-
-A set of brain-training mini-games from the command line.
-
-## Installation
-
-```bash
-npm install
-npm link
