@@ -15,3 +15,5 @@
 [brain-calc](https://asciinema.org/a/ttLjz6AAmCTq591i)
 
 [brain-gcd](https://asciinema.org/a/XsNIQ2rJK8M0JaMV)
+
+[brain-progrression](https://asciinema.org/a/esGVxbhyMOXVZoMx)
