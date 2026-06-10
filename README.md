@@ -11,3 +11,5 @@
 ## Demo
 
 [brain-even](https://asciinema.org/a/Hdai4uBhrwZe4m4e)
+
+[brain-calc](https://asciinema.org/a/ttLjz6AAmCTq591i)
