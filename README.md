@@ -10,12 +10,12 @@
 
 ## Demo
 
-[brain-even](https://asciinema.org/a/Hdai4uBhrwZe4m4e)
+[brain-even ( Четные числа ) запись](https://asciinema.org/a/Hdai4uBhrwZe4m4e)
 
-[brain-calc](https://asciinema.org/a/ttLjz6AAmCTq591i)
+[brain-calc ( Калькулятор ) запись](https://asciinema.org/a/ttLjz6AAmCTq591i)
 
-[brain-gcd](https://asciinema.org/a/XsNIQ2rJK8M0JaMV)
+[brain-gcd ( НОД ) запись ](https://asciinema.org/a/XsNIQ2rJK8M0JaMV)
 
-[brain-progrression](https://asciinema.org/a/esGVxbhyMOXVZoMx)
+[brain-progrression ( Прогрессия ) запись](https://asciinema.org/a/esGVxbhyMOXVZoMx)
 
-[brain-prime](https://asciinema.org/a/vXV3FOvIz91vEmEZ)
+[brain-prime ( Простые числа ) запись](https://asciinema.org/a/vXV3FOvIz91vEmEZ)
