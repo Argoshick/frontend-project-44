@@ -18,4 +18,5 @@
 
 [brain-progrression ( Прогрессия ) запись](https://asciinema.org/a/esGVxbhyMOXVZoMx)
 
+
 [brain-prime ( Простые числа ) запись](https://asciinema.org/a/vXV3FOvIz91vEmEZ)
